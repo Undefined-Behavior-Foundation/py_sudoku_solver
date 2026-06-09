@@ -6,7 +6,7 @@ This provides a working reference implementation demonstrating FIFO queue-based 
 
 ## Prerequisites
 
-Review the [Getting Started](https://github.com/sunlao/py_sudoku_solver/wiki/Getting-Started) for more info for Mac setup and virtual environment details.
+Review the [Getting Started]([https://github.com/sunlao/py_sudoku_solver/wiki/Getting-Started](https://github.com/Undefined-Behavior-Foundation/.github/wiki/Getting-Started-(python)) for more info for Mac setup and virtual environment details.
 
 ## API docs
 
