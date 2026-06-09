@@ -1,4 +1,6 @@
-## py_sudoku_solver
+# python sudoku solver
+
+## Overview
 
 A pythonic multi-actor async event-driven Sudoku solver as a RI for actor patterns.
 
